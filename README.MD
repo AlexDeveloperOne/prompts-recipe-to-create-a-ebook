@@ -60,7 +60,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       width=80 
       src="https://avatars.githubusercontent.com/u/57747390?v=4&size=64"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspAlexandre Silva<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/AlexDeveloperOne">GitHub</a>&nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/alexandre-araujo-da-silva-0970191aa/">LinkedIn</a>&nbsp;|&nbsp;
